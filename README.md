@@ -2,7 +2,9 @@
 
 
 Como rodar o projeto
+````
 1- rode o comando abaixo
+````
 
 npm install
 2- crie um arquivo .env na raíz do projeto com esses dados:
